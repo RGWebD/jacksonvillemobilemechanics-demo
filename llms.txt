@@ -1,0 +1,27 @@
+# Jacksonville Mobile Mechanics
+> Women-owned mobile mechanics serving Jacksonville, Florida. They come directly to the customer's location (home, work, parking lot or jobsite) to repair vehicles. Listed on Google as open 24 hours. Rated 4.6/5 from 315 Google reviews.
+
+- Google listing name: JACKSONVILLE MOBILE MECHANICS LC (customers also write "Jacksonville Mobile Mechanics LLC")
+- Phone / text: (904) 800-8923
+- Hours: Open 24 hours (per Google Business Profile)
+- Service area: Jacksonville, FL and the Duval area (service-area business, no public street address)
+- Payments: Credit cards, Debit cards, NFC mobile payments
+- Women-owned business (per Google attribute)
+- From the owner: "JACKSONVILLE MOBILE MECHANICS that come directly to your location to repar your vehicle. We provide quality work at reasonable prices. We primarily provide and warranty the LABOR PORTION of the installation of the client provided Auto Parts."
+
+## Services (from the Google profile and customer reviews)
+- Mobile diagnostics: Can’t tell what’s wrong? Diagnostics come up in our reviews more than any other job. We trace the problem right where the car sits and explain it in plain English before any work starts.
+- Starters & no-start problems: Starter replacement is one of the most-mentioned jobs in our Google reviews. Clicking, cranking or dead silence — call, tell us what you hear, and we’ll come sort it out.
+- Serpentine belts: Squealing, cracked or snapped belt? Serpentine belt replacement comes up again and again in our reviews — done in your driveway, no tow required.
+- Oil changes: Oil changes are a listed offering on our Google profile. Skip the lube-shop line — we bring the oil change to you.
+- Engine-bay & bigger repairs: From a hard-to-reach loose fuel rail to valve-cover work and drive-shaft removal, our reviewers have trusted us with jobs well beyond the basics.
+- Breakdowns where you are: Car died in a grocery-store parking lot? Two work trucks down on a jobsite? We come to you and fix it on the spot whenever we can.
+- You bring the parts, we warranty the labor: Already bought the part? We primarily provide and warranty the labor portion of installing client-provided auto parts — and we’ll help you get the right part for your car.
+
+## Pages
+- [Home](https://rgwebd.github.io/jacksonvillemobilemechanics-demo/): overview, rating, why choose us, reviews, contact
+- [Services](https://rgwebd.github.io/jacksonvillemobilemechanics-demo/services.html): each service plus how a mobile visit works
+- [Our Work](https://rgwebd.github.io/jacksonvillemobilemechanics-demo/work.html): photo gallery of real jobs
+- [Reviews](https://rgwebd.github.io/jacksonvillemobilemechanics-demo/reviews.html): customer reviews quoted from Google
+- [Contact & FAQ](https://rgwebd.github.io/jacksonvillemobilemechanics-demo/contact.html): phone, text form, hours, service area, payments, FAQ
+- [Google reviews](https://www.google.com/maps/place/JACKSONVILLE+MOBILE+MECHANICS+LC/data=!4m2!3m1!1s0x0:0x423d5202d75ca5d5)
