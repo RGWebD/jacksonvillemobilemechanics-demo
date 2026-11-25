@@ -420,7 +420,11 @@ section{position:relative}
  .svc:nth-child(even) .svc-ph{order:0}
  .svc-ph .num{font-size:4.6rem;top:-30px;left:-4px}
  .svc:nth-child(even) .svc-ph .num{right:-4px}
- .collage{height:520px}
+ .collage{height:440px}
+ .collage .p1{width:72%;height:76%}
+ .collage .p2{width:56%;height:56%}
+ .float-card.b{display:none}
+ .hot:nth-of-type(2){top:66%!important}
  .dn{aspect-ratio:4/5}
  .cards4{grid-template-columns:1fr}
  .phero .frame{transform:none}

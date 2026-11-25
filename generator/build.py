@@ -162,7 +162,7 @@ def home():
 <div class="marq out" aria-hidden="true"><div class="track"><ul>{mq}</ul><ul>{mq}</ul></div></div></div>
 
 <section class="sec" aria-labelledby="why-h"><div class="wrap why-grid">
-<div class="collage rv"><div class="p1 phtilt" data-px="-.03">{img('g06','Two mechanics working under a raised sedan in a parking lot',small=True)}</div><div class="p2">{img('g15','Mechanic repairing a blue car in a parking space',small=True)}</div>
+<div class="collage rv"><div class="p1">{img('g06','Two mechanics working under a raised sedan in a parking lot',small=True)}</div><div class="p2">{img('g15','Mechanic repairing a blue car in a parking space',small=True)}</div>
 <div class="stamp" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><path id="cp" d="M60,60 m-46,0 a46,46 0 1,1 92,0 a46,46 0 1,1 -92,0"/></defs><circle cx="60" cy="60" r="58" fill="#0A0F1C"/><text font-family="JetBrains Mono,monospace" font-size="10.5" font-weight="700" letter-spacing="3.2" fill="#F4F6EF"><textPath href="#cp">WE COME TO YOU · ANY HOUR · </textPath></text></svg><span class="core">{ic('van')}</span></div></div>
 <div><span class="eyebrow rv">Why Jacksonville calls us</span><h2 class="h2 split" id="why-h"><span class="ln"><span>Your driveway</span></span><span class="ln"><span>is <span class="lime">the shop.</span></span></span></h2>
 <p class="lede rv d1">No tow, no waiting room. We come directly to your location to repair your vehicle \u2014 quality work at reasonable prices.</p>
